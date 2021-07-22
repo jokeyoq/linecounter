@@ -37,7 +37,7 @@ Author name: Agustin Kim
 Author email: agustinkim2020@hotmail.com
 Format:
 linecounter -d [dname] -f [extension1] [extension2] [extensions...] [-l]
--d for count entrre directory
+-d for count a directory
 -f only count files with specified extensions
 -l count for each file
 ***********************************************************************
