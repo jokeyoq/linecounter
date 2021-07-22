@@ -280,7 +280,7 @@ void print_format()
     printf("Author email: agustinkim2020@hotmail.com\n");
     printf("Format:\n");
     printf("linecounter -d [dname] -f [extension1] [extension2] [extensions...] [-l]\n");
-    printf("-d for count entrre directory\n");
+    printf("-d for count a directory\n");
     printf("-f only count files with specified extensions\n");
     printf("-l count for each file\n");
     printf("***********************************************************************\n");
